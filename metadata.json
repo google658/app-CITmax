@@ -1,0 +1,8 @@
+{
+  "name": "CITmax",
+  "description": "Central do Assinante CITmax - Conecte-se com o mundo.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
